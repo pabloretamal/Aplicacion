@@ -1,2 +1,2 @@
 # Aplicacion
-Aplicacion par tarifas de la flota Impuestos Sin Contratiempos.
+Aplicacion para tarifas de la flota Impuestos Sin Contratiempos.
